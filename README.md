@@ -4,7 +4,7 @@ Matlab implemetation of RBF network for prediction of wind speed in an unknown s
 The clusters from data points is determided using kmeans.
 
 The optimal number of clusters is determined by trying out different number of
-cluster while observing the error performance. 3 – 100 cluster were tried out for this data, and 14 clusters showed a better learning performance as well as better error convergence on both the training and test data set.
+clusters while observing the error performance. 3 – 100 cluster were tried out for this data, and 14 clusters showed a better learning performance as well as better error convergence on both the training and test data set.
 
 
 Sigma is calculated using the formula: 

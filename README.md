@@ -7,7 +7,7 @@ Model perfomace:
 * Training set: Data from 1961-1970
 * Test set: Data from 1971-1978 
 
-<img src="perfomance.png" width="800" height="380" />
+<img src="performance.png" width="800" height="380" />
 
 
 

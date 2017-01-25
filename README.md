@@ -7,13 +7,15 @@ Model Training:
 * Training set: Data from 1961-1970
 * Test set: Data from 1971-1978 
 
+<img src="lc.jpg" width="500" height="300" />
+
 
 Model Perfomance:
 
 Actual vs Predicted
 
 
-<img src="predi.jpg" width="900" height="390" />
+<img src="predi.jpg" width="900" height="300" />
 
 
 

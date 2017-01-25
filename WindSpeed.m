@@ -14,7 +14,7 @@ classdef WindSpeed
     end
     methods
         function ws =WindSpeed()
-            load wind
+            load wind %Load data
             wdata = wind(:,4:15);
             year = wind(:,1);
             month = wind(:,2);
@@ -41,7 +41,7 @@ classdef WindSpeed
     methods(Static)
         function centroids =centers(data,k)
             
-            %Computer the centroids from data points       
+            %Computer the centroids from data points using kmeans       
             [~,centroids] = kmeans(data,k,'MaxIter',100000,'Replicates',10);           
         end
         

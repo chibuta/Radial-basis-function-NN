@@ -1,5 +1,5 @@
 # Radial Basis Function Neural Network
-Matlab implemetation of RBF network for prediction of wind speed in an unknown station. [Data](http://lib.stat.cmu.edu/datasets/wind.data) collected from 12 synoptic meteorological stations in the Republic of Ireland (Haslett and Raftery, Applied Statistics 1989). Description and data itself can be found from the following[link]( http://lib.stat.cmu.edu/datasets/wind.desc).
+Matlab implemetation of RBF network for prediction of wind speed in an unknown station. [Data](http://lib.stat.cmu.edu/datasets/wind.data) collected from 12 synoptic meteorological stations in the Republic of Ireland (Haslett and Raftery, Applied Statistics 1989). Description and data itself can be found from the following [link]( http://lib.stat.cmu.edu/datasets/wind.desc).
 
 
 

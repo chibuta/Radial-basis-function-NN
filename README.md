@@ -9,7 +9,7 @@ clusters while observing the error performance. 3 – 100 cluster were tried out
 
 Sigma is calculated using the formula: 
 
-<img src="math/sigma.png" width="400" height="100" />
+<img src="math/sigma.png" width="400" height="90" />
 
 Model Training:
 * Training set: Data from 1961-1970

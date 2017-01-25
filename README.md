@@ -3,11 +3,17 @@ Matlab implemetation of RBF network for prediction of wind speed in an unknown s
 
 
 
-Model perfomace:
+Model Training:
 * Training set: Data from 1961-1970
 * Test set: Data from 1971-1978 
 
-<img src="performance.png" width="900" height="400" />
+
+Model Perfomance:
+
+Actual vs Predicted
+
+
+<img src="predi.jpg" width="900" height="390" />
 
 
 

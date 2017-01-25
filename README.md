@@ -7,7 +7,9 @@ The optimal number of clusters is determined by trying out different number of
 cluster while observing the error performance. 3 – 100 cluster were tried out for this data, and 14 clusters showed a better learning performance as well as better error convergence on both the training and test data set.
 
 
-<img src="math/sigma.png" width="300" height="100" />
+Sigma is calculated using the formula: 
+
+<img src="math/sigma.png" width="400" height="100" />
 
 Model Training:
 * Training set: Data from 1961-1970

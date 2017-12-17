@@ -55,7 +55,7 @@ classdef WindSpeed
             test_input =test_data(:,1:11);
             test_output =test_data(:,12);
             
-            k=300; %Estimated number of centers
+            k=14; %Estimated number of centers
             eta =0.0065; %learnign rate
             centroids = WindSpeed.centers(tn_input,k); %return the centers
             [l, ~] =size(training_data);
